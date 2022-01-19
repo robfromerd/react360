@@ -18,7 +18,7 @@ function init(bundle, parent, options = {}) {
 
   // Load the initial environment r360.compositor.setBackground(r360.getAssetURL('simmes-start-screen.jpg'));
 
-  r360.compositor.setBackground(r360.getAssetURL('8hw0clw-360-panorama-miami.jpeg'));
+  r360.compositor.setBackground(r360.getAssetURL('drew.jpg'));
 }
 
 window.React360 = {init};
